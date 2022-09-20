@@ -29,7 +29,7 @@
     
 </div>
 
-### :hammer_and_wrench: Languages and Tool comming soon:
+### :hammer_and_wrench: Languages and Tools comming soon:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
