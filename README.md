@@ -40,7 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarestigue)](https://github.com/anuraghazra/github-readme-stats)
