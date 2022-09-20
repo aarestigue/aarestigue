@@ -5,8 +5,10 @@
 </h1>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- <a href="https://www.linkedin.com/in/andrea-arestigue-6b420429/" />
+  <a href="https://www.linkedin.com/in/andrea-arestigue-6b420429/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
 </div>
 
 ---
@@ -31,6 +33,14 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tool comming soon:
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarestigue)](https://github.com/anuraghazra/github-readme-stats)
